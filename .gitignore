@@ -1,0 +1,7 @@
+.vscode/
+summaries/
+screenshots/
+info/
+resources/
+.venv/
+.env
