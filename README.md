@@ -18,3 +18,9 @@ Summary example - https://www.carbon-counting-club.com/
 
 > The Carbon Counting Club is an innovative online gardening initiative focused on environmental sustainability. Its mission is to raise funds for tree planting while rewarding individuals who engage in at-home carbon sequestration methods. Participants can buy NFTs that contribute to tree planting and support public goods, and they can earn cryptocurrency rewards for sharing their gardening efforts on social media. The project encourages community involvement through a bounty board and offers guidelines for effective carbon capture materials.
 > The project employs unique technologies such as NFTs to facilitate funding and rewards, fostering a participatory approach to environmental conservation. Partnerships are likely established within the crypto and gardening communities, enabling members to claim Carbon Counting Coins by promoting their gardening activities on platforms like X, thus integrating social media engagement with eco-friendly practices.
+
+## License
+
+This project is licensed under the terms of the [CC BY 4.0 License](https://creativecommons.org/licenses/by/4.0/).
+
+![CC BY 4.0 License](https://i.creativecommons.org/l/by/4.0/88x31.png)
