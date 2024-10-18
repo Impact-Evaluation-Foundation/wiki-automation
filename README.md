@@ -1,6 +1,6 @@
 # IEF wiki automation
 
-This project is used for automating the creation of wikis for the [IEF](https://impactevaluation.foundation/)
+This project is used for automating the creation of wikis for the [IEF](https://impactevaluation.foundation/), continuing the work from the [IERetrv](https://github.com/GregTrifan/IERetrv) repository. The activity and focus of that repo have now moved here, where further development and automation processes are being carried out.
 
 Steps to run this codebase:
 
